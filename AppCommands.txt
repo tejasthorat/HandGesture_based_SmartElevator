@@ -1,0 +1,8 @@
+python -m venv myenv 
+.\myenv\Script\activate
+pip install flask
+pip install numpy
+pip install keras
+pip install tensorflow
+pip install Pillow
+python app.py
